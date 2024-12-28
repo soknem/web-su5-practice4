@@ -131,6 +131,8 @@
 
     .hamburger {
         display: flex;
+        /* width: auto; */
+        /* height: auto; */
     }
 
     .menu.active {
